@@ -22,8 +22,8 @@
   ![alt text][material_dark]![alt text][material_light] 
   ![alt text][eva_dark]![alt text][eva_light]  
 
-[app_work]: https://github.com/17madjoker/react-native-todo/blob/main/app-work.gif
-[material_dark]: https://github.com/17madjoker/react-native-todo/blob/main/material-dark.gif
-[material_light]: https://github.com/17madjoker/react-native-todo/blob/main/material-light.gif
-[eva_dark]: https://github.com/17madjoker/react-native-todo/blob/main/eva-dark.gif
-[eva_light]: https://github.com/17madjoker/react-native-todo/blob/main/eva-light.gif
+[app_work]: https://github.com/17madjoker/react-native-todo-app/blob/main/gif/app-work.gif
+[material_dark]: https://github.com/17madjoker/react-native-todo-app/blob/main/gif/material-dark.gif
+[material_light]: https://github.com/17madjoker/react-native-todo-app/blob/main/gif/material-light.gif
+[eva_dark]: https://github.com/17madjoker/react-native-todo-app/blob/main/gif/eva-dark.gif
+[eva_light]: https://github.com/17madjoker/react-native-todo-app/blob/main/gif/eva-light.gif
